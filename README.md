@@ -7,4 +7,6 @@ And the amazing part is, i just wrote it in
 53 lines of script!
 Hope you enjoy playing this game :)
 Thank for your attention
+Preview:
+https://amirkh84.github.io/Tic-Tac-Toe/
 Please like and follow❤🥃
